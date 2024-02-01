@@ -1,8 +1,11 @@
 from time import time
+import math
 
 def primoA3(m):
+    if m == 2:
+        return True
     """ returns whether m is prime or not """
-    for i in range (2,m//2+1):
+    for i in range (2,math.ceil(m**(1/2)) + 1):
         if m%i==0:
             return False
     return True
