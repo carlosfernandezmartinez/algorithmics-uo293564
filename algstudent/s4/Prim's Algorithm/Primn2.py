@@ -1,0 +1,3 @@
+
+
+def prim(edges):
