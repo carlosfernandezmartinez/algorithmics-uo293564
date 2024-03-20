@@ -4,8 +4,10 @@ import time
 
 i = 4
 
-while i < 2049:
-    edges = help.triangularMatrixRandomIntegers(i, 1, 10)
+elapsed = 0
+
+while elapsed < 600000:
+    edges = help.triangularMatrixRandomIntegers(i, 1000, 1000)
     t1 = time.time_ns()
     prim.prim(edges)
     t2 = time.time_ns()
