@@ -1,0 +1,19 @@
+INDEX VERSION 1.131+/home/carlos/Escritorio/s5/Pattern matching/.metadata/.plugins/org.eclipse.jdt.core
+3870185603.index
+325452929.index
+889227269.index
+2163770701.index
+72550883.index
+83111197.index
+3669628535.index
+703224877.index
+2993477448.index
+2512714672.index
+73554147.index
+119220455.index
+178622398.index
+330777070.index
+3565919131.index
+2303051646.index
+1223861962.index
+1865797976.index
